@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div style={{ padding: "2rem" }}>
-      <h1>Notes</h1>
+      <h1>Your Notes</h1>
 
       <div style={{ marginBottom: "1rem" }}>
         <input
